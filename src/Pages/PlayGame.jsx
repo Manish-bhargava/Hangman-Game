@@ -32,7 +32,7 @@ function PlayGame() {
           value={inputWord}
           onChange={(e)=>{setInputWord(e.target.value)}}
           className="p-2 rounded text-black"
-          placeholder="Enter password"
+          placeholder="Enter the word"
         />
       </div>
   

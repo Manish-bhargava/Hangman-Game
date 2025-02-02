@@ -65,7 +65,7 @@ function SinglePlayerGame() {
     };
 
     return (
-        <div className="bg-gray-900 h-screen text-white flex flex-col items-center justify-between px-4 sm:px-6 lg:px-12 space-y-5">
+        <div className="bg-gray-900 min-h-screen text-white flex flex-col items-center justify-between px-4 sm:px-6 lg:px-12 space-y-5">
             <div className="text-3xl sm:text-4xl font-bold mt-4 text-center">Hangman Game</div>
             
             <div className="flex flex-col items-center space-y-2">

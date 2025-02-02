@@ -7,9 +7,15 @@ export const words = [
     { wordValue: "Guitar", wordHint: "Strings attached to a wooden body, music flows through it" },
     { wordValue: "Elephant", wordHint: "Largest creature on land, it has a trunk" },
     { wordValue: "Pineapple", wordHint: "Spiky on the outside, sweet on the inside" },
-    { wordValue: "Encyclopedia", wordHint: "A vast collection of information, but not the internet" },
-    { wordValue: "Psychology", wordHint: "Understanding the mind, not the body" },
-    { wordValue: "Astronomy", wordHint: "Study of what is far above us, beyond our planet" },
-    { wordValue: "Supercalifrag", wordHint: "A long, fun word often associated with Mary Poppins" },
-    { wordValue: "infection", wordHint: "An extremely long word referring to a specific lung disease" }
+    { wordValue: "Mango", wordHint: "A tropical fruit that's orange" },
+    { wordValue: "Shark", wordHint: "A large fish, often feared" },
+    { wordValue: "Table", wordHint: "An item of furniture with a flat surface" },
+    { wordValue: "Water", wordHint: "Essential liquid for life" },
+    { wordValue: "Storm", wordHint: "A weather event with strong winds and rain" },
+    { wordValue: "Grave", wordHint: "A burial place" },
+    { wordValue: "Cherry", wordHint: "A small, red fruit often used in pies" },
+    { wordValue: "Bread", wordHint: "A staple food made from flour" },
+    { wordValue: "Piano", wordHint: "A musical instrument with keys" },
+    { wordValue: "Horse", wordHint: "A domesticated animal often ridden" },
   ];
+  

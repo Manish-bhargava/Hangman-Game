@@ -37,7 +37,7 @@ const navigate=useNavigate();
         <>   {
          
         }
-            <div className="bg-gray-900 h-screen text-white flex items-center flex-col space-y-5 justify-between">
+            <div className="bg-gray-900 min-h-screen text-white flex items-center flex-col space-y-5 justify-between">
                 <div className="text-3xl font-bold mt-[20px]">Hangman Game</div>
                 <div className="flex flex-col items-center space-y-2">
                     <MaskedString actualWord={state.word} guessesWord={display}></MaskedString>
